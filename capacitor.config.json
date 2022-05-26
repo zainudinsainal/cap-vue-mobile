@@ -1,0 +1,7 @@
+{
+  "appId": "com.capacitor.app",
+  "appName": "cap-test-vue-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn"
+}

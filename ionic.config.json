@@ -1,0 +1,7 @@
+{
+  "name": "cap-test-vue-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
